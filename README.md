@@ -24,8 +24,8 @@ This is the backend for a Task Manager application that allows users to register
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://your-repo-url.git
+   bash
+   git clone [https://your-repo-url.git](https://github.com/Masngo/-backend-task-manager.git ) 
    cd backend-task-manager
 2.	Install the dependencies:
 3.	npm install
