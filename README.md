@@ -38,20 +38,31 @@ This is the backend for a Task Manager application that allows users to register
 10.	The API will be available at http://localhost:5000/api.
 API Endpoints
 User Authentication
+
 •	POST /users/register: Register a new user
+
 •	POST /users/login: Log in an existing user
+
 •	POST /users/logout: Log out the current user
+
 Task Management
+
 •	GET /tasks: Fetch all tasks
+
 •	POST /tasks: Create a new task
+
 •	PUT /tasks/:id: Update an existing task
+
 •	DELETE /tasks/:id: Delete a task
+
 Contributing
+
 1.	Fork the repository
 2.	Create a feature branch (git checkout -b feature/YourFeature)
 3.	Commit your changes (git commit -m 'Add some feature')
 4.	Push to the branch (git push origin feature/YourFeature)
 5.	Open a pull request
 License
+
 This project is licensed under the MIT License.
 
